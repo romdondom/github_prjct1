@@ -1,0 +1,36 @@
+"Typical UI testing checklist encompasses the following activities:
+
+    1. Check font (font type and font size)
+
+    2. Check for consistency (colors and visual elements)
+
+    3. Check behavior of interactive elements (do the buttons, clicks, hovers, drag-and-drops, etc. work as intended?)
+
+    4. Check spaces (paddings, borders, margins)
+
+    5. Check page content is as per design (readable font, color, proper text alignment)
+
+    6. Check the page in all standard resolutions (all page layouts are consistent and flawless across devices, ensuring that the UI elements adapt and are displayed correctly in  different sizes)
+
+    7. Check layout (ensure that sections don’t overlap each other)
+
+    8. Check images displayed are not blurry
+
+
+Of course, complete testing is impossible without the use of special tools. 
+
+There are many applications and methods to increase UI testing quality. 
+
+Our QA Engineers recommend utilizing the following UI testing tools:
+
+    1. PixelPerfect (a very useful tool by  Google Chrome that allows comparing the current version with the provided design)
+
+    2. Dimensions (check interval between contents)
+
+    3. Dev Tools (irreplaceable helper: colors, font (size, type), padding and many others)
+
+    4. Color picker (allows defining the color of the item that you depend on)
+
+    5. Light Snapshot (Quick Screen Preview)
+    6. Material. Io Color Tool ( allows selecting the desired color among a large number of shades, and helps you determine the percentage ratio of the background-color combination within it)"
+
